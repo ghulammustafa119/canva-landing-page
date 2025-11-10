@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: linear-gradient(to bottom, #4a00e0, #8e2de2, #00c6ff);
+    color: white;
+    height: 100vh;
+}
+
+.container {
+    padding: 20px 40px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.buttons button {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.signup {
+    background-color: #8e2de2;
+    color: white;
+}
+
+.login {
+    background-color: white;
+    color: black;
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+}
+
+main h1 {
+    font-size: 60px;
+    margin: 0;
+}
+
+main p {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.action-buttons button {
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.start-designing {
+    background-color: white;
+    color: black;
+}
+
+.explore {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 1px solid white;
+}
