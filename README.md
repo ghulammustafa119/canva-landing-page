@@ -25,7 +25,7 @@ git clone https://github.com/ghulammustafa119/canva-landing-page.git
 
 2. Open index.html in your browser to view the landing page.
 
-3 .Edit style.css to change colors, fonts, or layout as needed.
+3. Edit style.css to change colors, fonts, or layout as needed.
 
 ## Notes
 ---
