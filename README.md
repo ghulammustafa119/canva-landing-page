@@ -21,7 +21,7 @@ Currently, the project contains **two files**:
 
 1. Clone the repository:
 
-git clone https://github.com/ghulammustafa119/canva-landing-page.git
+  git clone https://github.com/ghulammustafa119/canva-landing-page.git
 
 2. Open index.html in your browser to view the landing page.
 
