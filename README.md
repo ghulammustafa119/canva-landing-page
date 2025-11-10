@@ -1,6 +1,5 @@
 # canva-landing-page
-My first app: A simple landing page designed using HTML and CSS, built with AI-driven Gemini CLI.
-# Canva Landing Page
+My first app — a simple landing page built with HTML and CSS, created using AI-driven development through the Gemini CLI.
 
 This is a **simple landing page** built using **HTML** and **CSS**.  
 Currently, the project contains **two files**:
@@ -22,13 +21,14 @@ Currently, the project contains **two files**:
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/ghulammustafa119/canva-landing-page.git
+
 2. Open index.html in your browser to view the landing page.
 
 3 .Edit style.css to change colors, fonts, or layout as needed.
 
 ## Notes
+---
 
 - This is an initial version for testing and learning purposes.
 - More pages and features will be added later.
